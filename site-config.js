@@ -6,7 +6,7 @@ window.JASPER_CONFIG = {
   tagline: "Dedicated to long walks and a friendlier neighbourhood",
   email: "", // Add a real address to turn the top contact strip into an email link.
   images: {
-    portrait: "jasper-portrait.svg",
+    portrait: "JasperPortrait.jpeg",
     about: "jasper-about.svg",
     adventure: "jasper-adventure.svg",
     neighbourhood: "jasper-neighbourhood.svg"
