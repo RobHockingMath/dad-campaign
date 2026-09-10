@@ -10,3 +10,11 @@
 @media(max-width:767px){.site-header{border-top-width:5px;padding-bottom:22px}.branding{padding:30px 0 26px}.site-description{font-size:.9375rem}.js .menu-toggle{display:block}.js .menu{display:none}.js .menu.is-open{display:flex}.menu{flex-direction:column;margin-top:12px;border:1px solid var(--border)}.menu a{padding:13px 16px;font-size:1rem}.page-card{margin:30px auto;padding:28px;border-width:3px}.entry-heading{padding:12px 0 35px}.widget-area{padding:40px 0 20px}.float-photo{float:none;width:100%;margin:28px 0}h2{font-size:1.8rem}.post-navigation{flex-direction:column}.post-navigation a{max-width:100%}}
 @media(max-width:400px){body{font-size:1rem}.page-card{width:94%;padding:21px}.site-title{font-size:2.1rem}.contact-inner{font-size:.8125rem}.download-row{align-items:flex-start}.search-form{flex-wrap:wrap}.search-form input{flex:1 1 180px}.search-form button{min-height:44px}}
 @media print{body{background:white;color:black;font:11pt/1.6 Georgia,serif}h1,h2,h3,a{color:black}.site-header,.widget-area,.site-footer,.download-row,.post-navigation,.skip-link,.search-form{display:none}.page-card{padding:0;margin:0;max-width:none;width:100%;border:0;background:white}.entry-heading{padding:0 0 24px}.post-meta,.caption{color:#444}}
+.portrait-link {
+  width: min(450px, 100%);
+}
+
+.portrait-link img {
+  width: 100%;
+  height: auto;
+}
